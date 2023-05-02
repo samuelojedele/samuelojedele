@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samuelojedele
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development(Back-end)
 - 🌱 I’m currently a student at ALX 
-- 💞️ I’m looking forward to collaborate on the back-end of web development
+- 💞️ I’m looking forward to collaborate and learn from other software engineers 
 - 📫 You can reach me on twitter: @SamuelOjedele and Linkedin: @Samuel (Smart) Ojedele
 
 <!---
