@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samuelojedele
 - 👀 I’m interested in web development(Back-end)
-- 🌱 I’m currently a student at ALX 
+- 🌱 I’m currently honing my skills
 - 💞️ I’m looking forward to collaborate and learn from other software engineers 
 - 📫 You can reach me on twitter: @SamuelOjedele and Linkedin: @Samuel (Smart) Ojedele
 
